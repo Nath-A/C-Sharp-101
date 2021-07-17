@@ -1,1 +1,7 @@
-# c-sharp-101
+# C-Sharp-101
+
+## What!?
+## Why!?
+## Where!?
+## How!?
+## When!?  
