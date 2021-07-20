@@ -11,7 +11,7 @@ For my internship, we will work on ASP.NET and Azure Devops... So... I need to l
 From my home, outside in the yard (when the sun is shinning), and from BeCode
 
 ## How!?
-By following and old Elephorm tutorial
+By following and old Elephorm tutorial... (Not the greatest idea I had, I think it is too old) 
 
 ## When!?
 RIGHT NOW ! 😅
