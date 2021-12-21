@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hQqcIIq29Nd1LHjh2d+4f3FJY8H9ryAn57vhz+FEIl43I7b8qR3siPtFA3ZtEZKghs5gEJeJhzXbXN60//20Vg==",
+  "dgSpecHash": "hLBySiIVJgutGUhwvmov7fkConI63OprM+5MRP/hgi+76Mi1TakRP+NH0X0fB4ZIxCnD8bMCrAcx2xycfw9jVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NathalieAnneessens\\source\\repos\\C-Sharp-101\\GradeBook\\GradeBook\\GradeBook.csproj",
+  "projectFilePath": "C:\\Users\\NathalieAnneessens\\source\\repos\\C-Sharp-101\\src\\GradeBook\\GradeBook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NathalieAnneessens\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],

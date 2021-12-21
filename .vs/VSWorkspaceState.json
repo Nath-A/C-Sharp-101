@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\readme-files",
+    "\\src",
+    "\\src\\GradeBook"
   ],
+  "SelectedNode": "\\notes.md",
   "PreviewInSolutionExplorer": false
 }
