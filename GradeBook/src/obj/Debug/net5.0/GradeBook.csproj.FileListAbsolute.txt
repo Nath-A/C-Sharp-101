@@ -1,0 +1,16 @@
+C:\Users\NathalieAnneessens\source\repos\C-Sharp-101\GradeBook\src\bin\Debug\net5.0\GradeBook.exe
+C:\Users\NathalieAnneessens\source\repos\C-Sharp-101\GradeBook\src\bin\Debug\net5.0\GradeBook.deps.json
+C:\Users\NathalieAnneessens\source\repos\C-Sharp-101\GradeBook\src\bin\Debug\net5.0\GradeBook.runtimeconfig.json
+C:\Users\NathalieAnneessens\source\repos\C-Sharp-101\GradeBook\src\bin\Debug\net5.0\GradeBook.runtimeconfig.dev.json
+C:\Users\NathalieAnneessens\source\repos\C-Sharp-101\GradeBook\src\bin\Debug\net5.0\GradeBook.dll
+C:\Users\NathalieAnneessens\source\repos\C-Sharp-101\GradeBook\src\bin\Debug\net5.0\ref\GradeBook.dll
+C:\Users\NathalieAnneessens\source\repos\C-Sharp-101\GradeBook\src\bin\Debug\net5.0\GradeBook.pdb
+C:\Users\NathalieAnneessens\source\repos\C-Sharp-101\GradeBook\src\obj\Debug\net5.0\GradeBook.csproj.AssemblyReference.cache
+C:\Users\NathalieAnneessens\source\repos\C-Sharp-101\GradeBook\src\obj\Debug\net5.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NathalieAnneessens\source\repos\C-Sharp-101\GradeBook\src\obj\Debug\net5.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\NathalieAnneessens\source\repos\C-Sharp-101\GradeBook\src\obj\Debug\net5.0\GradeBook.AssemblyInfo.cs
+C:\Users\NathalieAnneessens\source\repos\C-Sharp-101\GradeBook\src\obj\Debug\net5.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\NathalieAnneessens\source\repos\C-Sharp-101\GradeBook\src\obj\Debug\net5.0\GradeBook.dll
+C:\Users\NathalieAnneessens\source\repos\C-Sharp-101\GradeBook\src\obj\Debug\net5.0\ref\GradeBook.dll
+C:\Users\NathalieAnneessens\source\repos\C-Sharp-101\GradeBook\src\obj\Debug\net5.0\GradeBook.pdb
+C:\Users\NathalieAnneessens\source\repos\C-Sharp-101\GradeBook\src\obj\Debug\net5.0\GradeBook.genruntimeconfig.cache
