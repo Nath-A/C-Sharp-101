@@ -1,28 +1,22 @@
 ﻿using System;
-
+using System.Collections.Generic;
+using System.Linq;
 namespace GradeBook
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var numbers = new double[3];
-            numbers[0] = 6.66;
-            numbers[1] = 66.6;
-            numbers[2] = 666;
+            var book = new Book();
+            book.AddGrade(89.1);
 
+            var grades = new List<double> {12.7,10.3,6.11,4.1};
+            grades.Add(56.1);
+            var result = 0.0;
             
-            
-            
-            if (args.Length > 0)
-            {
-                Console.WriteLine($"Hello {args[0]} !");
-            }
-            else
-            {
-                Console.WriteLine("Hello Choubidou !");
-            }
+            result = grades.Average();
 
+            Console.WriteLine($"The average grade is {result:N2}");
         }
     }
 }
