@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7rH3FHBooDwOrQGFt3x+ltjM2ThZCCdPga/4+HrW9a0Nl5ZRNVzwTQW7jdAhuT7L7a/eWv8jAdnBtvSMCGcH+g==",
+  "dgSpecHash": "TyXaFrLes4UkwJ02mLACXbTss6T9WWu/yQLDIJq9cIfKEHxs0h432N2ov0jP4qJcUcw9j7UlDhqPSilppBP2cQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nath\\source\\repos\\C-Sharp-101\\src\\GradeBook\\GradeBook.csproj",
+  "projectFilePath": "C:\\Users\\Nath\\source\\repos\\C-Sharp-101\\GradeBook\\GradeBook.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

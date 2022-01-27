@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nath\\Source\\Repos\\C-Sharp-101\\src\\GradeBook\\GradeBook.csproj",
+      "projectUniqueName": "C:\\Users\\Nath\\source\\repos\\C-Sharp-101\\GradeBook\\GradeBook.csproj",
       "projectName": "GradeBook",
-      "projectPath": "C:\\Users\\Nath\\Source\\Repos\\C-Sharp-101\\src\\GradeBook\\GradeBook.csproj",
+      "projectPath": "C:\\Users\\Nath\\source\\repos\\C-Sharp-101\\GradeBook\\GradeBook.csproj",
       "packagesPath": "C:\\Users\\Nath\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nath\\Source\\Repos\\C-Sharp-101\\src\\GradeBook\\obj\\",
+      "outputPath": "C:\\Users\\Nath\\source\\repos\\C-Sharp-101\\GradeBook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nath\\AppData\\Roaming\\NuGet\\NuGet.Config",
