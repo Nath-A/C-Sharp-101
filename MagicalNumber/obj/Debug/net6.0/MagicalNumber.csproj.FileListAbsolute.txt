@@ -1,0 +1,15 @@
+C:\Users\Nath\source\repos\C-Sharp-101\MagicalNumber\bin\Debug\net6.0\MagicalNumber.exe
+C:\Users\Nath\source\repos\C-Sharp-101\MagicalNumber\bin\Debug\net6.0\MagicalNumber.deps.json
+C:\Users\Nath\source\repos\C-Sharp-101\MagicalNumber\bin\Debug\net6.0\MagicalNumber.runtimeconfig.json
+C:\Users\Nath\source\repos\C-Sharp-101\MagicalNumber\bin\Debug\net6.0\MagicalNumber.dll
+C:\Users\Nath\source\repos\C-Sharp-101\MagicalNumber\bin\Debug\net6.0\ref\MagicalNumber.dll
+C:\Users\Nath\source\repos\C-Sharp-101\MagicalNumber\bin\Debug\net6.0\MagicalNumber.pdb
+C:\Users\Nath\source\repos\C-Sharp-101\MagicalNumber\obj\Debug\net6.0\MagicalNumber.csproj.AssemblyReference.cache
+C:\Users\Nath\source\repos\C-Sharp-101\MagicalNumber\obj\Debug\net6.0\MagicalNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nath\source\repos\C-Sharp-101\MagicalNumber\obj\Debug\net6.0\MagicalNumber.AssemblyInfoInputs.cache
+C:\Users\Nath\source\repos\C-Sharp-101\MagicalNumber\obj\Debug\net6.0\MagicalNumber.AssemblyInfo.cs
+C:\Users\Nath\source\repos\C-Sharp-101\MagicalNumber\obj\Debug\net6.0\MagicalNumber.csproj.CoreCompileInputs.cache
+C:\Users\Nath\source\repos\C-Sharp-101\MagicalNumber\obj\Debug\net6.0\MagicalNumber.dll
+C:\Users\Nath\source\repos\C-Sharp-101\MagicalNumber\obj\Debug\net6.0\ref\MagicalNumber.dll
+C:\Users\Nath\source\repos\C-Sharp-101\MagicalNumber\obj\Debug\net6.0\MagicalNumber.pdb
+C:\Users\Nath\source\repos\C-Sharp-101\MagicalNumber\obj\Debug\net6.0\MagicalNumber.genruntimeconfig.cache
