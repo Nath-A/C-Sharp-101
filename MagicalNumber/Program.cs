@@ -6,21 +6,25 @@ namespace MagicalNumber
     {
         static int AskNumber()
         {
+            int IntNumber = 0;
 
-
-            Console.Write("Give me a number");
-            string StringNumber = Console.ReadLine();
-
-            try
+            while (IntNumber == 0)
             {
-                int IntNumber = int.Parse(StringNumber);
+                Console.Write("Give me a number : ");
+                string StringNumber = Console.ReadLine();
 
+                try
+                {
+                    IntNumber = int.Parse(StringNumber);
+
+                }
+
+                catch
+                {
+                    Console.WriteLine("That's bullshit ! Try with a valid number");
+                }
             }
-
-            catch
-            {
-
-            }
+            
 
             //if (Number == 0)
             //{
@@ -31,13 +35,15 @@ namespace MagicalNumber
 
             //Console.WriteLine(StringNumber);
             //return Number;
-
+            return IntNumber;
         }
         static void Main(String[] args)
         {
             
 
-            AskNumber();
+            int ShowNumber = AskNumber();
+            Console.WriteLine($"Here is your number : {ShowNumber}");
+
         }
     }
 }
