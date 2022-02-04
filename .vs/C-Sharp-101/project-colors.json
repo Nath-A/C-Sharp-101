@@ -10,7 +10,27 @@
       "ProjectGuid": "c41208aa-50ed-4343-b9ef-b99b1f033153",
       "DisplayName": "ConsoleApp1",
       "ColorIndex": 0
+    },
+    "0309c894-f128-4658-a486-4a4c862c7721": {
+      "ProjectGuid": "0309c894-f128-4658-a486-4a4c862c7721",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    },
+    "7bf746a0-679e-41ec-8359-1a86b421d7ab": {
+      "ProjectGuid": "7bf746a0-679e-41ec-8359-1a86b421d7ab",
+      "DisplayName": "GradeBook",
+      "ColorIndex": 2
+    },
+    "ba1104d3-b92b-4a16-899d-1202d74a1431": {
+      "ProjectGuid": "ba1104d3-b92b-4a16-899d-1202d74a1431",
+      "DisplayName": "Magical Number",
+      "ColorIndex": 3
+    },
+    "9f527d1e-2b52-4493-b485-dc3e98bfde3a": {
+      "ProjectGuid": "9f527d1e-2b52-4493-b485-dc3e98bfde3a",
+      "DisplayName": "MagicalNumber",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 5
 }
