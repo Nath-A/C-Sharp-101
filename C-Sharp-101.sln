@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradeBook", "GradeBook\GradeBook.csproj", "{7BF746A0-679E-41EC-8359-1A86B421D7AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicalNumber", "MagicalNumber\MagicalNumber.csproj", "{9F527D1E-2B52-4493-B485-DC3E98BFDE3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagicalNumber", "MagicalNumber\MagicalNumber.csproj", "{9F527D1E-2B52-4493-B485-DC3E98BFDE3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathematicsGame", "MathematicsGame\MathematicsGame.csproj", "{F2B02BA0-530D-42A3-BA3F-BADEB3670C61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9F527D1E-2B52-4493-B485-DC3E98BFDE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F527D1E-2B52-4493-B485-DC3E98BFDE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F527D1E-2B52-4493-B485-DC3E98BFDE3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B02BA0-530D-42A3-BA3F-BADEB3670C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B02BA0-530D-42A3-BA3F-BADEB3670C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B02BA0-530D-42A3-BA3F-BADEB3670C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B02BA0-530D-42A3-BA3F-BADEB3670C61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
