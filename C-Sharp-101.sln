@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathematicsGame", "Mathemat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordGenerator", "PasswordGenerator\PasswordGenerator.csproj", "{1587394C-E496-483D-B489-FE4FC06355DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp101_Tools", "CSharp101-Tools\CSharp101_Tools.csproj", "{61029BD7-4CE8-44AD-9800-8D2A27AD797F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1587394C-E496-483D-B489-FE4FC06355DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1587394C-E496-483D-B489-FE4FC06355DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1587394C-E496-483D-B489-FE4FC06355DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61029BD7-4CE8-44AD-9800-8D2A27AD797F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61029BD7-4CE8-44AD-9800-8D2A27AD797F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61029BD7-4CE8-44AD-9800-8D2A27AD797F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61029BD7-4CE8-44AD-9800-8D2A27AD797F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
