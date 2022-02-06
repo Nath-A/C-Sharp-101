@@ -1,0 +1,12 @@
+C:\Users\Nath\source\repos\C-Sharp-101\CSharp101-Tools\bin\Debug\net6.0\CSharp101_Tools.deps.json
+C:\Users\Nath\source\repos\C-Sharp-101\CSharp101-Tools\bin\Debug\net6.0\CSharp101_Tools.dll
+C:\Users\Nath\source\repos\C-Sharp-101\CSharp101-Tools\bin\Debug\net6.0\ref\CSharp101_Tools.dll
+C:\Users\Nath\source\repos\C-Sharp-101\CSharp101-Tools\bin\Debug\net6.0\CSharp101_Tools.pdb
+C:\Users\Nath\source\repos\C-Sharp-101\CSharp101-Tools\obj\Debug\net6.0\CSharp101_Tools.csproj.AssemblyReference.cache
+C:\Users\Nath\source\repos\C-Sharp-101\CSharp101-Tools\obj\Debug\net6.0\CSharp101_Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nath\source\repos\C-Sharp-101\CSharp101-Tools\obj\Debug\net6.0\CSharp101_Tools.AssemblyInfoInputs.cache
+C:\Users\Nath\source\repos\C-Sharp-101\CSharp101-Tools\obj\Debug\net6.0\CSharp101_Tools.AssemblyInfo.cs
+C:\Users\Nath\source\repos\C-Sharp-101\CSharp101-Tools\obj\Debug\net6.0\CSharp101_Tools.csproj.CoreCompileInputs.cache
+C:\Users\Nath\source\repos\C-Sharp-101\CSharp101-Tools\obj\Debug\net6.0\CSharp101_Tools.dll
+C:\Users\Nath\source\repos\C-Sharp-101\CSharp101-Tools\obj\Debug\net6.0\ref\CSharp101_Tools.dll
+C:\Users\Nath\source\repos\C-Sharp-101\CSharp101-Tools\obj\Debug\net6.0\CSharp101_Tools.pdb

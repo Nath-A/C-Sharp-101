@@ -11,13 +11,14 @@ namespace CSharp101_Tools
 
         public static int AskPositiveTo0Number(string question)
         {
-            return AskNumberBetween(question, 1, int.MaxValue);
+            return AskNumberBetween(question, 1, int.MaxValue, "Error : Number need to be higther to 0");
+            
         }
 
-        static int AskNumberBetween(string question, int min, int max)
+        public static int AskNumberBetween(string question, int min, int max, string errormessage = null)
         {
 
-            int number = AskNumber("How many characters ?");
+            int number = AskNumber(question);
             if (number >= min && number <= max)
             {
                 return number;
@@ -25,7 +26,17 @@ namespace CSharp101_Tools
             }
             else
             {
-                Console.WriteLine($"Error : Password length needs to be between {min} & {max}.");
+                if (errormessage == null)
+                {
+                    Console.WriteLine($"Error : Password length needs to be between {min} & {max}.");
+
+                }
+                else
+                {
+                    Console.WriteLine(errormessage);
+                }
+
+                Console.WriteLine();
                 return AskNumberBetween(question, min, max);
             }
         }
@@ -45,6 +56,8 @@ namespace CSharp101_Tools
                 catch
                 {
                     Console.WriteLine("You need to enter a number !");
+                    Console.WriteLine();
+
                 }
             }
 
